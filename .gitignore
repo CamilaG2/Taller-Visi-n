@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Modelos / artefactos pesados
+*.pth
+*.zip
+*.tar
+*.gz
+*.csv
+*.log
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
